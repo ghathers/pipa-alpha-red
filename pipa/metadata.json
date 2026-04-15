@@ -1,0 +1,6 @@
+{
+  "name": "PIPA",
+  "description": "Post-Incident Planning Assistant for security leadership. Analyzes forensic reports and remediation plans to provide a single pane of glass for post-incident strategy and root cause analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
